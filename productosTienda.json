@@ -1,0 +1,13 @@
+{
+    "productos": [ 
+        { "id": 1 , "nombre":"Jamón y Queso", "precio": 850 , "imagenUrl": "https://i.postimg.cc/FRk6NrpJ/jyq.jpg"},
+        { "id": 2 , "nombre":"Jamón y Huevo", "precio": 850 , "imagenUrl": "https://i.postimg.cc/BbBrvDfP/jyhuevo.jpg"},
+        { "id": 3 , "nombre":"Jamón y Tomate", "precio": 850 , "imagenUrl": "https://i.postimg.cc/NFvtFByS/jytomate.jpg"},
+        { "id": 4 , "nombre":"Jamón y Morron", "precio": 850 , "imagenUrl": "https://i.postimg.cc/VvXC0fKC/jymorron.jpg"},
+        { "id": 5 , "nombre":"Jamón y Zanahoria", "precio": 850 , "imagenUrl": "https://i.postimg.cc/hjdJN4W5/jamon-y-zanahoria.jpg"},
+        { "id": 6 , "nombre":"Jamón Crudo y Queso", "precio": 1200 , "imagenUrl": "https://i.postimg.cc/V6C1zdNX/crudoyqueso.jpg"},
+        { "id": 7 , "nombre":"Jamón Crudo y Tomate", "precio": 1200 , "imagenUrl": "https://i.postimg.cc/m2N9brzx/crudytom.jpg"},
+        { "id": 8 , "nombre":"Salame y Queso ", "precio": 1200 , "imagenUrl": "https://i.postimg.cc/brfGPXqN/syq.jpg"},
+        { "id": 9 , "nombre":"Jamón y Palmitos", "precio": 1200 , "imagenUrl": "https://i.postimg.cc/RF6f9QfG/jypalm.jpg"}
+    ]
+}
